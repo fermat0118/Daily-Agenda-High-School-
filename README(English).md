@@ -36,3 +36,9 @@ With more algorithmic thinking and modularization, I could have significantly re
 
 ## Reflection
 Through this project, I learned the importance of usability and sustainable design, as well as how to translate small inconveniences into digital solutions.
+
+---
+
+## About in the GitHub
+This project was created when I was highschool student using my school account; therefore, it doesn't work anymore.
+Thanks to the friend of mine, he left me a image of the project which I'm posting it rather than creating samething from one.
