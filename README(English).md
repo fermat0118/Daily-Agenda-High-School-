@@ -1,22 +1,38 @@
 # Daily-Agenda
+
 ## Overview
-### What I created
-The project I created is basically an online agenda, that send out classmates what the tomorrow's timetable and the 
-homework is. I aim to help both classmates and teachers so that there will be less concerns about what has to be done.
-### Why I created
-When I was a high school student in Japan, our teacher always send a paper of a monthly event. I had a tingle 
-that made me curious why they send us a paperwork when we all have our laptop forced to buy.
-In this SDGs society + information society, I thought digitalizing something we don't need is important.
-In addition, there were a lot of classmates asking what the next class is and what the homework was so I thought 
-sending it as an Agenda will be a great idea.
-### Materials
-- Gmail (my account and the group address of my class)
-- Google Spreadsheet
-- Google Colabolatory (Python)
-### What I devised
-Google colaboratory's python is a little unique that there were lot of things that required research (GAI was not widespread at that time); 
-therefore I studied and immediately outputted to the program. Also if we see as the perspective of the users, probably they will check the 
-mail through both PC and phone. I was careful enough in UI design because how we see from PC is different from the phone.
-### What I could have improved
-I was immature that the code was a little long that it easily exceeded 300 lines. I'm presuming I could have soften my mind to use algorithm which
-should exceedingly shorten my code.
+Daily-Agenda is an online agenda system that automatically sends tomorrow’s timetable and homework to classmates via email.  
+The goal is to help both students and teachers by reducing confusion about class schedules and assignments.
+
+---
+
+## Why I Created
+When I was a high school student in Japan, our teachers distributed monthly event schedules on paper.  
+I found it strange that we received paper documents even though every student was required to own a laptop.  
+In today’s digital and sustainable society, I felt it was important to reduce unnecessary paper use and digitalize such processes.  
+Moreover, many classmates often asked what the next class or homework was, so I thought an automated digital agenda could be a great solution.
+
+---
+
+## Materials Used
+- Gmail (my personal account + class group address)  
+- Google Spreadsheet  
+- Google Colaboratory (Python)
+
+---
+
+## What I Devised
+Google Colaboratory’s Python environment has several unique characteristics that required a lot of research (this was before generative AI became common).  
+I studied the necessary libraries and implemented the program efficiently.  
+From a user perspective, I also designed the email layout carefully to look good on both PCs and smartphones.
+
+---
+
+## What I Could Improve
+At the time, I was still inexperienced, and my code ended up exceeding 300 lines.  
+With more algorithmic thinking and modularization, I could have significantly reduced the length and improved maintainability.
+
+---
+
+## Reflection
+Through this project, I learned the importance of usability and sustainable design, as well as how to translate small inconveniences into digital solutions.
